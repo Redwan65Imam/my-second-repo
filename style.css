@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding:0 ;
+  
+}
+body {
+background-image:url(kkl.jpg) ;
+
+background-size: 280%;
+background-position: absolute ;
+background-size: cover;
+
+
+}
+
+
+
+div.main {
+
+    width: 400px;
+    margin: 100px ;
+   
+}
+h2 {
+text-align: center;
+padding: 20px;
+font-family: sans-serif;
+}
+div .registart {
+background-color: rgba(3, 39, 34, 0.829);
+width: 100%;
+font-size: 18px;
+height: fit-content;
+border-radius: 20px;
+border: 1px solid  rgba(34, 32, 32, 0.945);  
+box-shadow: 7px 20px   15px    rgb(2, 2, 2);
+color: #fff;
+}
+
+#registart {
+margin-left : 60px;
+
+}
+
+
+label {
+
+    font-family: sans-serif;  
+    font-size: 18px;
+    font-style: italic;
+
+}
+
+input #name {
+
+   width: 300px;
+   border: 1px solid #ddd ;
+   border-radius:3px  ;
+   outline: 0;
+   padding: 20px;
+   background-color: rgb(5, 0, 0);
+   box-shadow: inset 1px 1px 5px  rgba(o,o,o,o.3) ;
+
+}
+#submit {
+       width: 150px;
+      padding: 7px;
+       font-size:15px ;
+       font-family: sans-serif;
+       font-weight: 600px;
+       border: none;
+       border-radius: 7px;
+       background-color: rgb(6, 243, 25);
+}
+.div registart img {
+width: 200px;
+border-image: round;
+
+}
